@@ -39,6 +39,7 @@ def triangles(number, range_start=2):
             print m_prods, "\n"
             
             
+            
             return start,m_prods,mults, prime_dividers, i
     #ANSWER: triangular number
     #l = number of unique prime divisors
